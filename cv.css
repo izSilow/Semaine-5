@@ -18,7 +18,7 @@ background: url("http://reinformation.tv/wp-content/uploads/2013/07/fond-d%C3%A9
  
 h1 {
 
- font-size: 190%;
+ font-size: 150%;
  color: black; 
  text-align: center;
  font-family: Agency FB;
@@ -32,10 +32,14 @@ h1 {
  
  .block_coord {
   
-  line-height: 25px;
-  font-size: 140%;
+  line-height: 30px;
+  font-size: 150%;
+  padding: 1px;
   font-family: Freestyle Script;
-  text-align: right;
+  text-align: center;
+  background: #ccc;
+  box-shadow: 3px 3px 10px 5px #000;
+  
   
  }
  
@@ -70,5 +74,18 @@ h1 {
   text-align: center;
   border-width: 1px;
   border-style: inset;
+}
 
+
+
+
+
+.yo {
+ 
+ line-height: 20px;
+   font-size: 290%;
+   font-family: Corporate;
+   text-align: center;
+
+ 
 }

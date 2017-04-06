@@ -48,12 +48,12 @@ h1 {
   justify-content: center;
   align-item: center;
  
-  font-size: 150%;
-  padding: 1px;
+  font-size: 130%;
+  padding: 3px;
   font-family: Freestyle Script;
   text-align: center;
   background: #ccc;
-  box-shadow: 3px 3px 10px 5px #000;
+  box-shadow: 4px 3px 10px 5px #000;
   
   
  }
@@ -61,7 +61,7 @@ h1 {
 
 .blabla { 
  width: 50%;
-  border-right: solid 1px;
+  border-right: solid 4px;
   line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;
@@ -84,7 +84,7 @@ h1 {
  .hoho {
 
   width: 50%;
-  border-right: solid 1px;
+  border-right: solid 4px;
   line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;
@@ -105,7 +105,6 @@ h1 {
  position: absolute;
  content: url("before.jpg");
  z-index: 50;
- 
  left: 30%;
  
 }
@@ -121,11 +120,11 @@ h1 {
 }
 
 .parcours{
- width: 40%;
- text-align: center;
-font-size: 120%;
- color: black; 
- text-align: center;
- font-family: Agency FB
+ width: 50%;
+  border-right: solid 4px;
+  line-height: 40px;
+  font-size: 120%;
+  font-family: Agency FB;
+  text-align: center;
 }
 

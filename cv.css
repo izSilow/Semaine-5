@@ -124,7 +124,8 @@ h1 {
 
 .parcours{
  
-  line-height: 40px;
+  width: 100%;
+  line-height: 25px;
   font-size: 120%;
   font-family: Agency FB;
   text-align: center;

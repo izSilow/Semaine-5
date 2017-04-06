@@ -15,6 +15,8 @@ body {
  
 .page-header {
  width: 100%;
+ color: white;
+ text-shadow: 5px 4px 10px #000000;
  height: auto;
  margin-top: 0;
  background: url("test1.png") left top;
@@ -45,7 +47,7 @@ h1 {
   padding: 3px;
   font-family: Freestyle Script;
   text-align: center ;
-  background: url ("test1.png")left top ;
+  background: url("test2.png") left top ;
   box-shadow: 4px 3px 10px 5px #000;
   }
  

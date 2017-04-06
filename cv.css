@@ -17,7 +17,7 @@ body {
  width: 100%;
  height: auto;
  margin-top: 0;
- background: url ("stardust.png");
+ background: url("test2.png") left top;
  box-shadow: 4px 3px 10px 5px #000
 }
 

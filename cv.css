@@ -104,10 +104,11 @@ h1 {
 }
 
 .title::before {
- position: absolute;
- content: url("before.jpg");
+ position: absolute; 
+  width: 10%;
+ content: url("new.jpg");
  z-index: 50;
- left: 30%;
+ right: 90%;
  
 }
 

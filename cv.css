@@ -83,7 +83,7 @@ h1 {
  
  .hoho {
 
-  width: 50%;
+  width: 250%;
   border-right: solid 4px;
   line-height: 40px;
   font-size: 120%;
@@ -120,8 +120,7 @@ h1 {
 }
 
 .parcours{
- width: 50%;
-  border-right: solid 4px;
+ 
   line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;

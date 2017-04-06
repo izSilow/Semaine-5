@@ -121,6 +121,11 @@ h1 {
 }
 
 .parcours{
- width: 50%;
+ width: 40%;
  text-align: center;
+font-size: 120%;
+ color: black; 
+ text-align: center;
+ font-family: Agency FB
 }
+

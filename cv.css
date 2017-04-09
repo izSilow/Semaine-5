@@ -122,10 +122,18 @@ h1 {
 }
 
 .InfosCompl{
+  width: 52%;
+  line-height: 30px;
  margin-top: 10%;
+ font-family:Agency FB;
+ font-size:120%;
+ text-align: left;
+ 
+ 
+ 
 }
+
 .info{
  text-align: center;
  margin-top: 15px;
 }
-

@@ -15,7 +15,7 @@ body {
   }
  
 .page-header {
- width: 960px;
+ width: 100%;
  color: GoldenRod;
  text-shadow: 5px 4px 10px #000000;
  height: auto;
@@ -25,7 +25,7 @@ body {
 }
 
 .page-main {
- width: 960px;
+ width: 100%;
  height: 100%;
  margin-top: 10%;
  margin-bottom: 15%;
@@ -41,7 +41,7 @@ h1 {
  }
  
  footer{
-  width: 960px;
+  width: 100%;
  }
  
  .block_coord {
@@ -86,7 +86,7 @@ h1 {
  .hoho {
 
   width: 50%;
-  border-right: solid 4px;
+  border-right: solid, 4px;
   line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;

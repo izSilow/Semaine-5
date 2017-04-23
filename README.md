@@ -1,2 +1,2 @@
 # Semaine-5
-Exercice de la Semaine 5, Finalité du cv en css
+Exercice de la Semaine 6
